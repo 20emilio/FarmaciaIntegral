@@ -1,7 +1,7 @@
 ﻿@model List<Productos>
 
 @{
-    ViewData["Title"] = "Home Page";
+    ViewData["Title"] = "Reportes Page";
 }
 
 <div class="d-flex justify-content-start">
@@ -34,7 +34,6 @@
             <th>Calidad</th>
             <th>Especificaciones</th>
             <th>Fecha de Vencimiento</th>
-            <th>Acciones</th>
         </tr>
     </thead>
     <tbody>
@@ -47,10 +46,6 @@
                 <td>@producto.Calidad</td>
                 <td>@producto.Especificaciones</td>
                 <td>@producto.FechaDeVencimiento.ToShortDateString()</td>
-                <td>          
-                    <a href="@Url.Action("Editar", "Productos", new { id = producto.Codigo })" class="btn btn-primary">Editar</a>
-                    <button type="button" class="btn btn-danger" onclick="eliminar('@producto.Codigo')">Eliminar</button>
-                </td>
             </tr>
         }
     </tbody>
