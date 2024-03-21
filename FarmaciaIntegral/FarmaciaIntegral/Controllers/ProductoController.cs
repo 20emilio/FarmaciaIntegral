@@ -24,6 +24,7 @@ namespace FarmaciaIntegral.Controllers
             }
             return instance;
         }
+
         public IActionResult Index()
         {
             if (!listaProductos.Any())

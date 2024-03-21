@@ -13,6 +13,27 @@ html {
   min-height: 100%;
 }
 
-body {
-  margin-bottom: 60px;
+.nav-item {
+    font-size: 22px;
+    margin-bottom: 18px;
+}
+
+.nav-link i {
+    margin-right: 10px; 
+}
+
+.btn-custom-background {
+    background-color: #313131;
+    color: white;
+    width: 200px;
+    border: 2px solid black;
+    display: flex;
+    justify-content: space-between; 
+    align-items: center; 
+    padding: 10px 20px; 
+}
+
+.btn-custom-background i {
+    display: inline-block;
+    margin-right: auto;
 }
