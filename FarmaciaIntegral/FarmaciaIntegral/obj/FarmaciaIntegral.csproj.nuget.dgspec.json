@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "D:\\UAM\\Metodologia DS I\\Proyecto\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj": {}
+    "C:\\Users\\20emi\\OneDrive\\Documentos\\GitHub\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj": {}
   },
   "projects": {
-    "D:\\UAM\\Metodologia DS I\\Proyecto\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj": {
+    "C:\\Users\\20emi\\OneDrive\\Documentos\\GitHub\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\UAM\\Metodologia DS I\\Proyecto\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj",
+        "projectUniqueName": "C:\\Users\\20emi\\OneDrive\\Documentos\\GitHub\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj",
         "projectName": "FarmaciaIntegral",
-        "projectPath": "D:\\UAM\\Metodologia DS I\\Proyecto\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj",
-        "packagesPath": "C:\\Users\\danie\\.nuget\\packages\\",
-        "outputPath": "D:\\UAM\\Metodologia DS I\\Proyecto\\FarmaciaIntegral\\FarmaciaIntegral\\obj\\",
+        "projectPath": "C:\\Users\\20emi\\OneDrive\\Documentos\\GitHub\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral.csproj",
+        "packagesPath": "C:\\Users\\20emi\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\20emi\\OneDrive\\Documentos\\GitHub\\FarmaciaIntegral\\FarmaciaIntegral\\FarmaciaIntegral\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\danie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\20emi\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
